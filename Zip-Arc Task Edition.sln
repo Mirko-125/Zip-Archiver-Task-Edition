@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zip-Arc Task Edition", "Zip-Arc Task Edition.csproj", "{D1B9100F-3B32-4091-AEAF-3317CC862FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B9100F-3B32-4091-AEAF-3317CC862FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B9100F-3B32-4091-AEAF-3317CC862FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B9100F-3B32-4091-AEAF-3317CC862FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B9100F-3B32-4091-AEAF-3317CC862FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77C4ABA-DFD5-4EC7-BC7F-29D03C4B564E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\bin\Debug\net7.0\Zip-Arc Task Edition.exe
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\bin\Debug\net7.0\Zip-Arc Task Edition.deps.json
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\bin\Debug\net7.0\Zip-Arc Task Edition.runtimeconfig.json
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\bin\Debug\net7.0\Zip-Arc Task Edition.dll
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\bin\Debug\net7.0\Zip-Arc Task Edition.pdb
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\Zip-Arc Task Edition.csproj.AssemblyReference.cache
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\Zip-Arc Task Edition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\Zip-Arc Task Edition.AssemblyInfoInputs.cache
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\Zip-Arc Task Edition.AssemblyInfo.cs
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\Zip-Arc Task Edition.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\Zip-Arc Task Edition.dll
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\refint\Zip-Arc Task Edition.dll
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\Zip-Arc Task Edition.pdb
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\Zip-Arc Task Edition.genruntimeconfig.cache
+C:\Users\Mirko\source\repos\Zip-Arc Task Edition\obj\Debug\net7.0\ref\Zip-Arc Task Edition.dll
